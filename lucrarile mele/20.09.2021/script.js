@@ -4,10 +4,13 @@ var wasClicked = false;
 
 button.addEventListener("click", function() {
     if(!wasClicked) {
-        image.style.width = "400px";
+        image.style.width = "500px";
+        image.style.height = "350px"
         wasClicked = true;
-    } else {
-        image.style.width = "250px";
+    } 
+    else {
+        image.style.width = "280px";
+        image.style.height = "180px"
         wasClicked = false;
     }
 }, false);

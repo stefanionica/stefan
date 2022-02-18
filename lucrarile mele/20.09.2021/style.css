@@ -33,7 +33,8 @@ h1 {
 .img-lucrare {
     width: 280px;
     height: 180px;
-    transition:width .25s;
+    transition:width 1s;
+    transition: height 1s;
 }
 
 .text-lucrare {
