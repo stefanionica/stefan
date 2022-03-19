@@ -1401,6 +1401,11 @@ section {
     transform: rotate(360deg);
   }
 }
+.bx{
+  font-size: 60px;
+  color: var(--mycolor);
+  
+}
 
 /*--------------------------------------------------------------
 # Footer
