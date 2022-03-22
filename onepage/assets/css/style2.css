@@ -1081,6 +1081,9 @@ section {
   position: relative;
   overflow: hidden;
 }
+.member-img {
+  max-height: 300px;
+}
 .team .member .social {
   position: absolute;
   left: 0;
@@ -1113,7 +1116,7 @@ section {
   padding: 25px 15px;
 }
 .team .member .member-info h4 {
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 5px;
   font-size: 18px;
   color: #222222;
