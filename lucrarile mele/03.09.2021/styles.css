@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
-@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+/* @import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania"); */
 
 @font-family {
     font-family: "Booter - Zero Zero";
@@ -228,7 +228,7 @@ html, body {
 
 .shop-item-price {
     flex-grow: 1;
-    coloe: #333;
+    color: #333;
 }
 
 .shop-items {
@@ -266,7 +266,7 @@ html, body {
     color: #333;
 }
 
-.cart-quntity {
+.cart-quantity {
     width: 35%;
 }
 
@@ -294,7 +294,7 @@ html, body {
     background-color: #cc4c4c;
 }
 
-.cart-quntity-input {
+.cart-quantity-input {
     height: 34px;
     width: 50px;
     border-radius: 5px;
